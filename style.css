@@ -1,0 +1,30 @@
+#header {
+    background-color: aqua;   
+}
+
+#section {
+    border: 20px;
+    border-width: thick thick thick thick;
+    border-color: black;
+}
+
+#work-experience {
+    font-style: oblique;
+    color: red;
+    font-weight: 500;
+}
+
+#description {
+    padding: 35px;
+    background-color: darkturquoise;
+    margin: 40px;
+}
+
+#name {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#education {
+    color: green;
+}
